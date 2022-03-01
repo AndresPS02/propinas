@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total_amount">Total Amount of Bill</string>
+    <string name="tip_percentage">Total Tip Percentage</string>
+    <string name="percentage_15">15%</string>
+    <string name="percentage_25">25%</string>
+    <string name="percentage_35">35%</string>
+    <string name="TotalTip">total_tip</string>
+    <string name="total_tip">TotalTip</string>
+</resources>
