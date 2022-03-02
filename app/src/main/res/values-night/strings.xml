@@ -7,4 +7,5 @@
     <string name="percentage_35">35%</string>
     <string name="TotalTip">total_tip</string>
     <string name="total_tip">TotalTip</string>
+    <string name="tip_and_order_calculator">Tip and Order Calculatator</string>
 </resources>
